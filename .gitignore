@@ -1,0 +1,12 @@
+﻿.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+.streamlit/secrets.toml
+crm_data.csv
+sample-data/
+app_backup.py
+app_error.py
+*.zip
